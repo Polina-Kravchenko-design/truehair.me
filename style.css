@@ -605,13 +605,13 @@ footer {
         background-color:var(--white);
         color: var(--black);
         text-decoration: none;
-        padding: clamp(0.35rem, 1.3vw, 0.6rem) clamp(1.4rem, 2.3vw, 2.4rem);
         border: 2px solid var(--black);
-        border-radius: clamp(2rem, 10vw, 1.7rem);
         font-weight: 600;
         text-align: center;
         transition: background-color 0.3s, transform 0.3s;
-        font-size: clamp(1rem, 4vw, 1.7rem);
+        padding: clamp(0.35rem, 01vw, 0.6rem) clamp(0.7rem, 1.8vw, 2rem);
+        border-radius: clamp(2rem, 5vw, 1.7rem);
+        font-size: clamp(0.5rem, 2vw, 3rem);
     }
     
     .order-header-dt:hover {
